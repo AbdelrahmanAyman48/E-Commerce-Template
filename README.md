@@ -5,7 +5,7 @@ The E-commerce website is a full-stack application built using React with Vite a
 
   <img  src="public/assets/Screenshots/0.png" alt="Home">
 
-<!-- ## [🌟Live Website🌟](https://e-commerce-mansy.vercel.app) -->
+## [🌟Live Website🌟](https://e-commerce-template-tau.vercel.app/)
 
 ## [🌟Design on Figma 🌟](https://www.figma.com/file/yn2DFQJla0UiSMvomFsqwT/E-Commerce-Website-%D9%90Almdrasa?type=design&mode=design&t=fqPRRAQH5lDJGmoY-0)
 
@@ -30,7 +30,7 @@ The E-commerce website is a full-stack application built using React with Vite a
 7. **Wishlist and Cart Management**: Developed functionalities to add, remove, and update items in the wishlist and cart, enhancing user engagement and convenience.
 8. **Search Functionality**: Implemented a search feature to enable users to find products efficiently based on their preferences.
 9. **Checkout Process**: Designed a seamless checkout process with support for applying coupons and completing purchases, streamlining the buying journey for users.
-10. **Dark/Light Theme**: Design website to 
+10. **Dark/Light Theme**: Implementing a dark/light theme toggle for a website involves adding CSS for both themes and JavaScript to handle the switching logic 
 
 ## Technologies Used
 
@@ -49,7 +49,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone 
+   git clone (https://github.com/AbdelrahmanAyman48/E-Commerce-Template/tree/main)
    ```
 
 2. Navigate to the project directory:
