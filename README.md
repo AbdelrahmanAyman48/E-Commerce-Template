@@ -120,8 +120,13 @@ To set up and run the project locally, follow these steps:
 - [Email](mailto:abdelrmanayman48@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman-ayman-290674252/)
 
+## Useful Repositories
 
-<<<<<<< HEAD
+```bash
+   git clone (https://github.com/MMansy19/E-Commerce-Website)
+   ```
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
